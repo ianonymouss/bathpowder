@@ -1,20 +1,19 @@
 {
   "files": {
     "main.css": "/bathpowder/static/css/main.7214dc6a.css",
-    "main.js": "/bathpowder/static/js/main.e85a006e.js",
-    "static/media/powder.png": "/bathpowder/static/media/powder.efc666c671d3a4f61d00.png",
+    "main.js": "/bathpowder/static/js/main.0eaf7406.js",
+    "static/media/poster_p.png": "/bathpowder/static/media/poster_p.2c64de97c8fd52bb25e5.png",
     "static/media/home-banner-image.jpg": "/bathpowder/static/media/home-banner-image.d87117d4e3c43d7ece9a.jpg",
     "static/media/poster.jpg": "/bathpowder/static/media/poster.eed6151705a61d88d6e1.jpg",
-    "static/media/poster_p.jpg": "/bathpowder/static/media/poster_p.54f399451506b1e4358d.jpg",
     "static/media/logo.jpg": "/bathpowder/static/media/logo.272e4ff4226f5c637cab.jpg",
     "static/media/home-banner-background.png": "/bathpowder/static/media/home-banner-background.585600da7ff85661555e.png",
     "static/media/Logo.svg": "/bathpowder/static/media/Logo.56ad59d23ceff242946a01628e79e275.svg",
     "index.html": "/bathpowder/index.html",
     "main.7214dc6a.css.map": "/bathpowder/static/css/main.7214dc6a.css.map",
-    "main.e85a006e.js.map": "/bathpowder/static/js/main.e85a006e.js.map"
+    "main.0eaf7406.js.map": "/bathpowder/static/js/main.0eaf7406.js.map"
   },
   "entrypoints": [
     "static/css/main.7214dc6a.css",
-    "static/js/main.e85a006e.js"
+    "static/js/main.0eaf7406.js"
   ]
 }
