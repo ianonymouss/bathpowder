@@ -1,5 +1,5 @@
 import React from "react";
-import ProfilePic from "../Assets/ssh.jpg";
+import ProfilePic from "../Assets/poster.jpg";
 import { AiFillStar } from "react-icons/ai";
 
 const Testimonial = () => {
@@ -16,8 +16,8 @@ const Testimonial = () => {
       <div className="author-section">
         <img src={ProfilePic} alt="" style={{ width: "110px", height: "125px", borderRadius: "50%" }} />
         <p>
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        Parvati is a prominent Hindu goddess known for her beauty, grace, and association with mountains and nature. 
+        This connection hints at the bath powder's potential natural ingredients and connection to relaxation.
         </p>
         <div className="testimonials-stars-container">
           <AiFillStar />
@@ -26,7 +26,7 @@ const Testimonial = () => {
           <AiFillStar />
           <AiFillStar />
         </div>
-        <h2>Shri Harrsha</h2>
+        <h2> Parvati Bath Powder</h2>
       </div>
     </div>
   );
