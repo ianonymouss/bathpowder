@@ -15,6 +15,7 @@ const Work = () => {
       title: "Choose How Often",
       text: "Elevate Every Bath: Make Powders Your Daily Ritual",
     },
+    
     {
       image: DeliveryMeals,
       title: "Fast Deliveries",
