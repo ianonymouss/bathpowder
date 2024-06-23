@@ -29,14 +29,14 @@ const Navbar = () => {
       text: "About",
       icon: <InfoIcon />,
     },
-    {
-      text: "Testimonials",
-      icon: <CommentRoundedIcon />,
-    },
-    {
-      text: "Contact",
-      icon: <PhoneRoundedIcon />,
-    },
+    // {
+    //   text: "Testimonials",
+    //   icon: <CommentRoundedIcon />,
+    // },
+    // {
+    //   text: "Contact",
+    //   icon: <PhoneRoundedIcon />,
+    // },
     {
       text: "Cart",
       icon: <ShoppingCartRoundedIcon />,
