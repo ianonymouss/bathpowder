@@ -33,7 +33,7 @@ const Footer = () => {
         </div>
         <div className="footer-section-columns">
           <span>+91 9177724244</span>
-          <span>parvathi@gmail.com</span>
+          <span>parvathibathpowder@gmail.com</span>
         </div>
         <div className="footer-section-columns">
           <span>Terms & Conditions</span>
