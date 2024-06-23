@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bathpowder/static/css/main.7214dc6a.css",
-    "main.js": "/bathpowder/static/js/main.1d9e7b9d.js",
+    "main.js": "/bathpowder/static/js/main.e85a006e.js",
     "static/media/powder.png": "/bathpowder/static/media/powder.efc666c671d3a4f61d00.png",
     "static/media/home-banner-image.jpg": "/bathpowder/static/media/home-banner-image.d87117d4e3c43d7ece9a.jpg",
     "static/media/poster.jpg": "/bathpowder/static/media/poster.eed6151705a61d88d6e1.jpg",
@@ -11,10 +11,10 @@
     "static/media/Logo.svg": "/bathpowder/static/media/Logo.56ad59d23ceff242946a01628e79e275.svg",
     "index.html": "/bathpowder/index.html",
     "main.7214dc6a.css.map": "/bathpowder/static/css/main.7214dc6a.css.map",
-    "main.1d9e7b9d.js.map": "/bathpowder/static/js/main.1d9e7b9d.js.map"
+    "main.e85a006e.js.map": "/bathpowder/static/js/main.e85a006e.js.map"
   },
   "entrypoints": [
     "static/css/main.7214dc6a.css",
-    "static/js/main.1d9e7b9d.js"
+    "static/js/main.e85a006e.js"
   ]
 }
